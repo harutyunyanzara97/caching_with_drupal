@@ -1,0 +1,5 @@
+name: Cache system
+type: module
+description: Module for implementing custom form for invalidating cache.
+core_version_requirement: ^8.8 || ^9
+package: Custom
